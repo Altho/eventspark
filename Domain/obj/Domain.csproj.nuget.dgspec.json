@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alan/Desktop/eventspark/Domain/Domain.csproj": {}
+    "/Users/admin/Desktop/eventspark/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/Users/alan/Desktop/eventspark/Domain/Domain.csproj": {
+    "/Users/admin/Desktop/eventspark/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alan/Desktop/eventspark/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/admin/Desktop/eventspark/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/alan/Desktop/eventspark/Domain/Domain.csproj",
-        "packagesPath": "/Users/alan/.nuget/packages/",
-        "outputPath": "/Users/alan/Desktop/eventspark/Domain/obj/",
+        "projectPath": "/Users/admin/Desktop/eventspark/Domain/Domain.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Desktop/eventspark/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/alan/.nuget/NuGet/NuGet.Config"
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
