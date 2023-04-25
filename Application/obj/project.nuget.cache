@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "u/EufBy50dstAtJBIhxqq/Q4MeduehI+OQx9Aypqfg/Chzf8OwsuVhNdajh+lcmnmCgdztDDqTZ2YiNarJ8C4Q==",
+  "dgSpecHash": "1g3yELArUt1CK3r0rOfOvNTNgX6pOdv73V2/OWTiINzh+vn0at4ZFk45MobfrwoohpA8CLWdotyGGYHeOptTqA==",
   "success": true,
   "projectFilePath": "/Users/admin/Desktop/eventspark/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
+    "/Users/admin/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/admin/.nuget/packages/microsoft.data.sqlite.core/7.0.3/microsoft.data.sqlite.core.7.0.3.nupkg.sha512",
     "/Users/admin/.nuget/packages/microsoft.entityframeworkcore/7.0.3/microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
     "/Users/admin/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.3/microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",
